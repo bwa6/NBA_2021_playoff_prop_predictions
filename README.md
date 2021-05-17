@@ -3,7 +3,7 @@ predicting how many points an NBA player will score in a game
 
 With the NBA playoffs set to begin on 5-18-21, I decided to develop an algorithm to predict how many points a player will score in a game (note: today is 5-17-21).  I used to place prop bets on 'monkey knife fight,' which is a betting website for prop bets (i.e. betting on player stats).  I decided to take advantage of my improved understanding of machine learning to develop an algorithm to make effective predictions.
 
-The accompanying Jupyter Notebook, NBA predictions.ipynb, I applied web scraping to basketballreference.com to collect stats on every player in every game during the 2021 season.  I also downloaded some csv files from the same website to get data on team stats for the 2021 season.  I used all of this data to generate a pandas data frame on stats in four categories:
+In the accompanying Jupyter Notebook, NBA predictions.ipynb, I applied web scraping to basketballreference.com to collect stats on every player in every game during the 2021 season.  I also downloaded some csv files from the same website to get data on team stats for the 2021 season.  I used all of this data to generate a pandas data frame on stats in four categories:
 1) the team's stats averaged over the last week,
 2) the opponent's stats averaged over the last week,
 3) the player's stats averaged over the last week,
