@@ -13,6 +13,6 @@ Using these stats (100 features in total), I applied a regression analysis using
 
 I could not find datasets on over/under lines for how many points individual players would score each game, so it is difficult to assess the accuracy of my model.  However, I will look at the over/under lines at monkeyknifefight.com every day throughout the playoffs to collect data over time to compare to my model prediction.
 
-For example, if the over/under for Lebron James is scoring 26 points, and my model predicts 29 points, I would choose the 'over.'  I will be fake money on the prop bets in which my model is most confident (i.e. largest discrepancies between over/under line and model prediction) to determine the accuracy of my model.  Stay tuned for updates to this README to learn how my model performed.
+For example, if the over/under for Lebron James is scoring 26 points, and my model predicts 29 points, I would choose the 'over.'  I will bet fake money on the prop bets in which my model is most confident (i.e. largest discrepancies between over/under line and model prediction) to determine the accuracy of my model.  Stay tuned for updates to this README to learn how my model performed.
 
 The purpose of this project is to showcase my skills in web scraping, data cleaning, model development, and (eventually) model assessment.
