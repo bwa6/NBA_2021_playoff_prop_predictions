@@ -9,7 +9,7 @@ In the accompanying Jupyter Notebook, NBA predictions.ipynb, I applied web scrap
 3) the player's stats averaged over the last week,
 4) the player's stats averaged over the entire season up until the game of interest.
 
-Using these stats, I applied a regression analysis using ridge, lasso, support vector, and random forest regression.  I combined these four models into a voting regressor to get a final prediction.  In this case, I am interested in predicting how many points a player will score in a game.
+Using these stats (100 features in total), I applied a regression analysis using ridge, lasso, support vector, and random forest regression.  I combined these four models into a voting regressor to get a final prediction.  In this case, I am interested in predicting how many points a player will score in a game.
 
 I could not find datasets on over/under lines for how many points individual players would score each game, so it is difficult to assess the accuracy of my model.  However, I will look at the over/under lines at monkeyknifefight.com every day throughout the playoffs to collect data over time to compare to my model prediction.
 
