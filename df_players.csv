@@ -1,0 +1,494 @@
+,team_name,team_code,player_name,player_code
+0,Atlanta Hawks,ATL,Solomon Hill,/h/hillso01
+1,Atlanta Hawks,ATL,Kevin Huerter,/h/huertke01
+2,Atlanta Hawks,ATL,Trae Young,/y/youngtr01
+3,Atlanta Hawks,ATL,John Collins,/c/collijo01
+4,Atlanta Hawks,ATL,Clint Capela,/c/capelca01
+5,Atlanta Hawks,ATL,Danilo Gallinari,/g/gallida01
+6,Atlanta Hawks,ATL,Onyeka Okongwu,/o/okongon01
+7,Atlanta Hawks,ATL,Tony Snell,/s/snellto01
+8,Atlanta Hawks,ATL,Brandon Goodwin,/g/goodwbr01
+9,Atlanta Hawks,ATL,Bogdan Bogdanović,/b/bogdabo01
+10,Atlanta Hawks,ATL,Nathan Knight,/k/knighna01
+11,Atlanta Hawks,ATL,Skylar Mays,/m/mayssk01
+12,Atlanta Hawks,ATL,Bruno Fernando,/f/fernabr01
+13,Atlanta Hawks,ATL,Cam Reddish,/r/reddica01
+14,Atlanta Hawks,ATL,Lou Williams,/w/willilo02
+15,Atlanta Hawks,ATL,De'Andre Hunter,/h/huntede01
+16,Atlanta Hawks,ATL,Kris Dunn,/d/dunnkr01
+17,Boston Celtics,BOS,Payton Pritchard,/p/pritcpa01
+18,Boston Celtics,BOS,Jayson Tatum,/t/tatumja01
+19,Boston Celtics,BOS,Grant Williams,/w/willigr01
+20,Boston Celtics,BOS,Jaylen Brown,/b/brownja02
+21,Boston Celtics,BOS,Semi Ojeleye,/o/ojelese01
+22,Boston Celtics,BOS,Tristan Thompson,/t/thomptr01
+23,Boston Celtics,BOS,Robert Williams,/w/williro04
+24,Boston Celtics,BOS,Marcus Smart,/s/smartma01
+25,Boston Celtics,BOS,Aaron Nesmith,/n/nesmiaa01
+26,Boston Celtics,BOS,Carsen Edwards,/e/edwarca01
+27,Boston Celtics,BOS,Tremont Waters,/w/watertr01
+28,Boston Celtics,BOS,Tacko Fall,/f/fallta01
+29,Boston Celtics,BOS,Luke Kornet,/k/kornelu01
+30,Boston Celtics,BOS,Romeo Langford,/l/langfro01
+31,Boston Celtics,BOS,Evan Fournier,/f/fournev01
+32,Boston Celtics,BOS,Jabari Parker,/p/parkeja01
+33,Brooklyn Nets,BRK,Joe Harris,/h/harrijo01
+34,Brooklyn Nets,BRK,Jeff Green,/g/greenje02
+35,Brooklyn Nets,BRK,Bruce Brown,/b/brownbr01
+36,Brooklyn Nets,BRK,Landry Shamet,/s/shamela01
+37,Brooklyn Nets,BRK,Timothé Luwawu-Cabarrot,/l/luwawti01
+38,Brooklyn Nets,BRK,DeAndre Jordan,/j/jordade01
+39,Brooklyn Nets,BRK,Kyrie Irving,/i/irvinky01
+40,Brooklyn Nets,BRK,Tyler Johnson,/j/johnsty01
+41,Brooklyn Nets,BRK,James Harden,/h/hardeja01
+42,Brooklyn Nets,BRK,Kevin Durant,/d/duranke01
+43,Brooklyn Nets,BRK,Nicolas Claxton,/c/claxtni01
+44,Brooklyn Nets,BRK,Blake Griffin,/g/griffbl01
+45,Brooklyn Nets,BRK,Reggie Perry,/p/perryre01
+46,Brooklyn Nets,BRK,Chris Chiozza,/c/chiozch01
+47,Brooklyn Nets,BRK,Alize Johnson,/j/johnsal02
+48,Brooklyn Nets,BRK,Mike James,/j/jamesmi02
+49,Brooklyn Nets,BRK,Spencer Dinwiddie,/d/dinwisp01
+50,Charlotte Hornets,CHO,Terry Rozier,/r/roziete01
+51,Charlotte Hornets,CHO,Miles Bridges,/b/bridgmi02
+52,Charlotte Hornets,CHO,Bismack Biyombo,/b/biyombi01
+53,Charlotte Hornets,CHO,P.J. Washington,/w/washipj01
+54,Charlotte Hornets,CHO,Devonte' Graham,/g/grahade01
+55,Charlotte Hornets,CHO,Caleb Martin,/m/martica02
+56,Charlotte Hornets,CHO,Cody Martin,/m/martico01
+57,Charlotte Hornets,CHO,LaMelo Ball,/b/ballla01
+58,Charlotte Hornets,CHO,Cody Zeller,/z/zelleco01
+59,Charlotte Hornets,CHO,Jalen McDaniels,/m/mcdanja01
+60,Charlotte Hornets,CHO,Gordon Hayward,/h/haywago01
+61,Charlotte Hornets,CHO,Malik Monk,/m/monkma01
+62,Charlotte Hornets,CHO,Brad Wanamaker,/w/wanambr01
+63,Charlotte Hornets,CHO,Vernon Carey Jr.,/c/careyve01
+64,Charlotte Hornets,CHO,Nick Richards,/r/richani01
+65,Charlotte Hornets,CHO,Grant Riller,/r/rillegr01
+66,Charlotte Hornets,CHO,Nate Darling,/d/darlina01
+67,Chicago Bulls,CHI,Patrick Williams,/w/willipa01
+68,Chicago Bulls,CHI,Coby White,/w/whiteco01
+69,Chicago Bulls,CHI,Thaddeus Young,/y/youngth01
+70,Chicago Bulls,CHI,Denzel Valentine,/v/valende01
+71,Chicago Bulls,CHI,Zach LaVine,/l/lavinza01
+72,Chicago Bulls,CHI,Tomáš Satoranský,/s/satorto01
+73,Chicago Bulls,CHI,Garrett Temple,/t/templga01
+74,Chicago Bulls,CHI,Lauri Markkanen,/m/markkla01
+75,Chicago Bulls,CHI,Ryan Arcidiacono,/a/arcidry01
+76,Chicago Bulls,CHI,Nikola Vučević,/v/vucevni01
+77,Chicago Bulls,CHI,Daniel Theis,/t/theisda01
+78,Chicago Bulls,CHI,Cristiano Felício,/f/feliccr01
+79,Chicago Bulls,CHI,Javonte Green,/g/greenja02
+80,Chicago Bulls,CHI,Adam Mokoka,/m/mokokad01
+81,Chicago Bulls,CHI,Troy Brown Jr.,/b/browntr01
+82,Chicago Bulls,CHI,Devon Dotson,/d/dotsode01
+83,Chicago Bulls,CHI,Al-Farouq Aminu,/a/aminual01
+84,Cleveland Cavaliers,CLE,Isaac Okoro,/o/okorois01
+85,Cleveland Cavaliers,CLE,Dean Wade,/w/wadede01
+86,Cleveland Cavaliers,CLE,Collin Sexton,/s/sextoco01
+87,Cleveland Cavaliers,CLE,Cedi Osman,/o/osmande01
+88,Cleveland Cavaliers,CLE,Darius Garland,/g/garlada01
+89,Cleveland Cavaliers,CLE,Jarrett Allen,/a/allenja01
+90,Cleveland Cavaliers,CLE,Damyean Dotson,/d/dotsoda01
+91,Cleveland Cavaliers,CLE,Lamar Stevens,/s/stevela01
+92,Cleveland Cavaliers,CLE,Larry Nance Jr.,/n/nancela02
+93,Cleveland Cavaliers,CLE,Dylan Windler,/w/windldy01
+94,Cleveland Cavaliers,CLE,Taurean Prince,/p/princta02
+95,Cleveland Cavaliers,CLE,Brodric Thomas,/t/thomabr01
+96,Cleveland Cavaliers,CLE,Kevin Love,/l/loveke01
+97,Cleveland Cavaliers,CLE,Isaiah Hartenstein,/h/harteis01
+98,Cleveland Cavaliers,CLE,Matthew Dellavedova,/d/dellama01
+99,Cleveland Cavaliers,CLE,Jeremiah Martin,/m/martije02
+100,Dallas Mavericks,DAL,Tim Hardaway Jr.,/h/hardati02
+101,Dallas Mavericks,DAL,Jalen Brunson,/b/brunsja01
+102,Dallas Mavericks,DAL,Luka Dončić,/d/doncilu01
+103,Dallas Mavericks,DAL,Trey Burke,/b/burketr01
+104,Dallas Mavericks,DAL,Dorian Finney-Smith,/f/finnedo01
+105,Dallas Mavericks,DAL,Josh Richardson,/r/richajo01
+106,Dallas Mavericks,DAL,Dwight Powell,/p/poweldw01
+107,Dallas Mavericks,DAL,Willie Cauley-Stein,/c/caulewi01
+108,Dallas Mavericks,DAL,Maxi Kleber,/k/klebima01
+109,Dallas Mavericks,DAL,Kristaps Porziņģis,/p/porzikr01
+110,Dallas Mavericks,DAL,Josh Green,/g/greenjo02
+111,Dallas Mavericks,DAL,Boban Marjanović,/m/marjabo01
+112,Dallas Mavericks,DAL,Nicolò Melli,/m/mellini01
+113,Dallas Mavericks,DAL,Nate Hinton,/h/hintona01
+114,Dallas Mavericks,DAL,Tyler Bey,/b/beyty01
+115,Dallas Mavericks,DAL,J.J. Redick,/r/redicjj01
+116,Dallas Mavericks,DAL,Tyrell Terry,/t/terryty01
+117,Denver Nuggets,DEN,Nikola Jokić,/j/jokicni01
+118,Denver Nuggets,DEN,Facundo Campazzo,/c/campafa01
+119,Denver Nuggets,DEN,Michael Porter Jr.,/p/portemi01
+120,Denver Nuggets,DEN,JaMychal Green,/g/greenja01
+121,Denver Nuggets,DEN,Will Barton,/b/bartowi01
+122,Denver Nuggets,DEN,Paul Millsap,/m/millspa01
+123,Denver Nuggets,DEN,PJ Dozier,/d/doziepj01
+124,Denver Nuggets,DEN,Jamal Murray,/m/murraja01
+125,Denver Nuggets,DEN,Monte Morris,/m/morrimo01
+126,Denver Nuggets,DEN,Zeke Nnaji,/n/nnajize01
+127,Denver Nuggets,DEN,Vlatko Čančar,/c/cancavl01
+128,Denver Nuggets,DEN,Markus Howard,/h/howarma02
+129,Denver Nuggets,DEN,Bol Bol,/b/bolbo01
+130,Denver Nuggets,DEN,Aaron Gordon,/g/gordoaa01
+131,Denver Nuggets,DEN,Shaquille Harrison,/h/harrish01
+132,Denver Nuggets,DEN,Austin Rivers,/r/riverau01
+133,Denver Nuggets,DEN,JaVale McGee,/m/mcgeeja01
+134,Detroit Pistons,DET,Saddiq Bey,/b/beysa01
+135,Detroit Pistons,DET,Isaiah Stewart,/s/stewais01
+136,Detroit Pistons,DET,Josh Jackson,/j/jacksjo02
+137,Detroit Pistons,DET,Mason Plumlee,/p/plumlma01
+138,Detroit Pistons,DET,Sekou Doumbouya,/d/doumbse01
+139,Detroit Pistons,DET,Jerami Grant,/g/grantje01
+140,Detroit Pistons,DET,Saben Lee,/l/leesa01
+141,Detroit Pistons,DET,Wayne Ellington,/e/ellinwa01
+142,Detroit Pistons,DET,Frank Jackson,/j/jacksfr01
+143,Detroit Pistons,DET,Jahlil Okafor,/o/okafoja01
+144,Detroit Pistons,DET,Killian Hayes,/h/hayeski01
+145,Detroit Pistons,DET,Hamidou Diallo,/d/diallha01
+146,Detroit Pistons,DET,Dennis Smith Jr.,/s/smithde03
+147,Detroit Pistons,DET,Deividas Sirvydis,/s/sirvyde01
+148,Detroit Pistons,DET,Cory Joseph,/j/josepco01
+149,Detroit Pistons,DET,Rodney McGruder,/m/mcgruro01
+150,Golden State Warriors,GSW,Andrew Wiggins,/w/wiggian01
+151,Golden State Warriors,GSW,Kent Bazemore,/b/bazemke01
+152,Golden State Warriors,GSW,Stephen Curry,/c/curryst01
+153,Golden State Warriors,GSW,Draymond Green,/g/greendr01
+154,Golden State Warriors,GSW,Kevon Looney,/l/looneke01
+155,Golden State Warriors,GSW,Mychal Mulder,/m/muldemy01
+156,Golden State Warriors,GSW,Damion Lee,/l/leeda03
+157,Golden State Warriors,GSW,Kelly Oubre Jr.,/o/oubreke01
+158,Golden State Warriors,GSW,Juan Toscano-Anderson,/t/toscaju01
+159,Golden State Warriors,GSW,Jordan Poole,/p/poolejo01
+160,Golden State Warriors,GSW,Eric Paschall,/p/pascher01
+161,Golden State Warriors,GSW,James Wiseman,/w/wisemja01
+162,Golden State Warriors,GSW,Nico Mannion,/m/mannini01
+163,Golden State Warriors,GSW,Alen Smailagić,/s/smailal01
+164,Golden State Warriors,GSW,Gary Payton II,/p/paytoga02
+165,Golden State Warriors,GSW,Jordan Bell,/b/belljo01
+166,Golden State Warriors,GSW,Klay Thompson,/t/thompkl01
+167,Houston Rockets,HOU,Jae'Sean Tate,/t/tateja01
+168,Houston Rockets,HOU,Sterling Brown,/b/brownst02
+169,Houston Rockets,HOU,Kenyon Martin Jr.,/m/martike04
+170,Houston Rockets,HOU,Christian Wood,/w/woodch01
+171,Houston Rockets,HOU,John Wall,/w/walljo01
+172,Houston Rockets,HOU,Danuel House,/h/houseda01
+173,Houston Rockets,HOU,David Nwaba,/n/nwabada01
+174,Houston Rockets,HOU,Kelly Olynyk,/o/olynyke01
+175,Houston Rockets,HOU,Eric Gordon,/g/gordoer01
+176,Houston Rockets,HOU,Kevin Porter Jr.,/p/porteke02
+177,Houston Rockets,HOU,Anthony Lamb,/l/lamban01
+178,Houston Rockets,HOU,D.J. Wilson,/w/wilsodj01
+179,Houston Rockets,HOU,Armoni Brooks,/b/brookar01
+180,Houston Rockets,HOU,D.J. Augustin,/a/augusdj01
+181,Houston Rockets,HOU,Avery Bradley,/b/bradlav01
+182,Houston Rockets,HOU,Khyri Thomas,/t/thomakh01
+183,Houston Rockets,HOU,Dante Exum,/e/exumda01
+184,Indiana Pacers,IND,Justin Holiday,/h/holidju01
+185,Indiana Pacers,IND,T.J. McConnell,/m/mccontj01
+186,Indiana Pacers,IND,Doug McDermott,/m/mcderdo01
+187,Indiana Pacers,IND,Aaron Holiday,/h/holidaa01
+188,Indiana Pacers,IND,Domantas Sabonis,/s/sabondo01
+189,Indiana Pacers,IND,Malcolm Brogdon,/b/brogdma01
+190,Indiana Pacers,IND,Edmond Sumner,/s/sumneed01
+191,Indiana Pacers,IND,Myles Turner,/t/turnemy01
+192,Indiana Pacers,IND,Goga Bitadze,/b/bitadgo01
+193,Indiana Pacers,IND,Jeremy Lamb,/l/lambje01
+194,Indiana Pacers,IND,Caris LeVert,/l/leverca01
+195,Indiana Pacers,IND,Kelan Martin,/m/martike03
+196,Indiana Pacers,IND,JaKarr Sampson,/s/sampsja02
+197,Indiana Pacers,IND,Cassius Stanley,/s/stanlca01
+198,Indiana Pacers,IND,Oshae Brissett,/b/brissos01
+199,Indiana Pacers,IND,Amida Brimah,/b/brimaam01
+200,Indiana Pacers,IND,T.J. Warren,/w/warretj01
+201,Los Angeles Clippers,LAC,Ivica Zubac,/z/zubaciv01
+202,Los Angeles Clippers,LAC,Reggie Jackson,/j/jacksre01
+203,Los Angeles Clippers,LAC,Nicolas Batum,/b/batumni01
+204,Los Angeles Clippers,LAC,Terance Mann,/m/mannte01
+205,Los Angeles Clippers,LAC,Luke Kennard,/k/kennalu01
+206,Los Angeles Clippers,LAC,Marcus Morris,/m/morrima03
+207,Los Angeles Clippers,LAC,Paul George,/g/georgpa01
+208,Los Angeles Clippers,LAC,Kawhi Leonard,/l/leonaka01
+209,Los Angeles Clippers,LAC,Amir Coffey,/c/coffeam01
+210,Los Angeles Clippers,LAC,Serge Ibaka,/i/ibakase01
+211,Los Angeles Clippers,LAC,Patrick Patterson,/p/pattepa01
+212,Los Angeles Clippers,LAC,Patrick Beverley,/b/beverpa01
+213,Los Angeles Clippers,LAC,Daniel Oturu,/o/oturuda01
+214,Los Angeles Clippers,LAC,Rajon Rondo,/r/rondora01
+215,Los Angeles Clippers,LAC,DeMarcus Cousins,/c/couside01
+216,Los Angeles Clippers,LAC,Yogi Ferrell,/f/ferreyo01
+217,Los Angeles Clippers,LAC,Jay Scrubb,/s/scrubja01
+218,Los Angeles Lakers,LAL,Montrezl Harrell,/h/harremo01
+219,Los Angeles Lakers,LAL,Kyle Kuzma,/k/kuzmaky01
+220,Los Angeles Lakers,LAL,Kentavious Caldwell-Pope,/c/caldwke01
+221,Los Angeles Lakers,LAL,Talen Horton-Tucker,/h/hortota01
+222,Los Angeles Lakers,LAL,Dennis Schröder,/s/schrode01
+223,Los Angeles Lakers,LAL,Markieff Morris,/m/morrima02
+224,Los Angeles Lakers,LAL,Alex Caruso,/c/carusal01
+225,Los Angeles Lakers,LAL,Wesley Matthews,/m/matthwe02
+226,Los Angeles Lakers,LAL,Marc Gasol,/g/gasolma01
+227,Los Angeles Lakers,LAL,LeBron James,/j/jamesle01
+228,Los Angeles Lakers,LAL,Alfonzo McKinnie,/m/mckinal01
+229,Los Angeles Lakers,LAL,Anthony Davis,/d/davisan02
+230,Los Angeles Lakers,LAL,Andre Drummond,/d/drumman01
+231,Los Angeles Lakers,LAL,Ben McLemore,/m/mclembe01
+232,Los Angeles Lakers,LAL,Devontae Cacok,/c/cacokde01
+233,Los Angeles Lakers,LAL,Kostas Antetokounmpo,/a/antetko01
+234,Los Angeles Lakers,LAL,Jared Dudley,/d/dudleja01
+235,Memphis Grizzlies,MEM,Tyus Jones,/j/jonesty01
+236,Memphis Grizzlies,MEM,Kyle Anderson,/a/anderky01
+237,Memphis Grizzlies,MEM,Desmond Bane,/b/banede01
+238,Memphis Grizzlies,MEM,Dillon Brooks,/b/brookdi01
+239,Memphis Grizzlies,MEM,Ja Morant,/m/moranja01
+240,Memphis Grizzlies,MEM,Jonas Valančiūnas,/v/valanjo01
+241,Memphis Grizzlies,MEM,Brandon Clarke,/c/clarkbr01
+242,Memphis Grizzlies,MEM,Xavier Tillman Sr.,/t/tillmxa01
+243,Memphis Grizzlies,MEM,De'Anthony Melton,/m/meltode01
+244,Memphis Grizzlies,MEM,Grayson Allen,/a/allengr01
+245,Memphis Grizzlies,MEM,John Konchar,/k/konchjo01
+246,Memphis Grizzlies,MEM,Justise Winslow,/w/winslju01
+247,Memphis Grizzlies,MEM,Killian Tillie,/t/tilliki02
+248,Memphis Grizzlies,MEM,Sean McDermott,/m/mcderse01
+249,Memphis Grizzlies,MEM,Jaren Jackson Jr.,/j/jacksja02
+250,Memphis Grizzlies,MEM,Jontay Porter,/p/portejo01
+251,Miami Heat,MIA,Duncan Robinson,/r/robindu01
+252,Miami Heat,MIA,Bam Adebayo,/a/adebaba01
+253,Miami Heat,MIA,Andre Iguodala,/i/iguodan01
+254,Miami Heat,MIA,Precious Achiuwa,/a/achiupr01
+255,Miami Heat,MIA,Kendrick Nunn,/n/nunnke01
+256,Miami Heat,MIA,Tyler Herro,/h/herroty01
+257,Miami Heat,MIA,Jimmy Butler,/b/butleji01
+258,Miami Heat,MIA,Goran Dragić,/d/dragigo01
+259,Miami Heat,MIA,Gabe Vincent,/v/vincega01
+260,Miami Heat,MIA,Max Strus,/s/strusma01
+261,Miami Heat,MIA,KZ Okpala,/o/okpalkz01
+262,Miami Heat,MIA,Trevor Ariza,/a/arizatr01
+263,Miami Heat,MIA,Dewayne Dedmon,/d/dedmode01
+264,Miami Heat,MIA,Nemanja Bjelica,/b/bjeline01
+265,Miami Heat,MIA,Victor Oladipo,/o/oladivi01
+266,Miami Heat,MIA,Udonis Haslem,/h/hasleud01
+267,Miami Heat,MIA,Omer Yurtseven,/y/yurtsom01
+268,Milwaukee Bucks,MIL,Brook Lopez,/l/lopezbr01
+269,Milwaukee Bucks,MIL,Bryn Forbes,/f/forbebr01
+270,Milwaukee Bucks,MIL,Pat Connaughton,/c/connapa01
+271,Milwaukee Bucks,MIL,Khris Middleton,/m/middlkh01
+272,Milwaukee Bucks,MIL,Bobby Portis,/p/portibo01
+273,Milwaukee Bucks,MIL,Donte DiVincenzo,/d/divindo01
+274,Milwaukee Bucks,MIL,Giannis Antetokounmpo,/a/antetgi01
+275,Milwaukee Bucks,MIL,Jrue Holiday,/h/holidjr01
+276,Milwaukee Bucks,MIL,Thanasis Antetokounmpo,/a/antetth01
+277,Milwaukee Bucks,MIL,Jordan Nwora,/n/nworajo01
+278,Milwaukee Bucks,MIL,Sam Merrill,/m/merrisa01
+279,Milwaukee Bucks,MIL,Jeff Teague,/t/teaguje01
+280,Milwaukee Bucks,MIL,P.J. Tucker,/t/tuckepj01
+281,Milwaukee Bucks,MIL,Mamadi Diakite,/d/diakima01
+282,Milwaukee Bucks,MIL,Axel Toupane,/t/toupaax01
+283,Milwaukee Bucks,MIL,Elijah Bryant,/b/bryanel01
+284,Milwaukee Bucks,MIL,Justin Jackson,/j/jacksju01
+285,Minnesota Timberwolves,MIN,Anthony Edwards,/e/edwaran01
+286,Minnesota Timberwolves,MIN,Naz Reid,/r/reidna01
+287,Minnesota Timberwolves,MIN,Ricky Rubio,/r/rubiori01
+288,Minnesota Timberwolves,MIN,Jarred Vanderbilt,/v/vandeja01
+289,Minnesota Timberwolves,MIN,Jaden McDaniels,/m/mcdanja02
+290,Minnesota Timberwolves,MIN,Josh Okogie,/o/okogijo01
+291,Minnesota Timberwolves,MIN,Juan Hernangómez,/h/hernaju01
+292,Minnesota Timberwolves,MIN,Jordan McLaughlin,/m/mclaujo01
+293,Minnesota Timberwolves,MIN,Karl-Anthony Towns,/t/townska01
+294,Minnesota Timberwolves,MIN,Jake Layman,/l/laymaja01
+295,Minnesota Timberwolves,MIN,D'Angelo Russell,/r/russeda01
+296,Minnesota Timberwolves,MIN,Jaylen Nowell,/n/nowelja01
+297,Minnesota Timberwolves,MIN,Malik Beasley,/b/beaslma01
+298,Minnesota Timberwolves,MIN,Jarrett Culver,/c/culveja01
+299,Minnesota Timberwolves,MIN,Ed Davis,/d/davised01
+300,New Orleans Pelicans,NOP,Eric Bledsoe,/b/bledser01
+301,New Orleans Pelicans,NOP,Zion Williamson,/w/willizi01
+302,New Orleans Pelicans,NOP,Brandon Ingram,/i/ingrabr01
+303,New Orleans Pelicans,NOP,Jaxson Hayes,/h/hayesja02
+304,New Orleans Pelicans,NOP,Steven Adams,/a/adamsst01
+305,New Orleans Pelicans,NOP,Lonzo Ball,/b/balllo01
+306,New Orleans Pelicans,NOP,Kira Lewis Jr.,/l/lewiski01
+307,New Orleans Pelicans,NOP,Josh Hart,/h/hartjo01
+308,New Orleans Pelicans,NOP,Willy Hernangómez,/h/hernawi01
+309,New Orleans Pelicans,NOP,Nickeil Alexander-Walker,/a/alexani01
+310,New Orleans Pelicans,NOP,Naji Marshall,/m/marshna01
+311,New Orleans Pelicans,NOP,James Johnson,/j/johnsja01
+312,New Orleans Pelicans,NOP,Wenyen Gabriel,/g/gabriwe01
+313,New Orleans Pelicans,NOP,Wesley Iwundu,/i/iwundwe01
+314,New Orleans Pelicans,NOP,James Nunnally,/n/nunnaja01
+315,New Orleans Pelicans,NOP,Didi Louzada,/l/louzama01
+316,New York Knicks,NYK,RJ Barrett,/b/barrerj01
+317,New York Knicks,NYK,Julius Randle,/r/randlju01
+318,New York Knicks,NYK,Reggie Bullock,/b/bullore01
+319,New York Knicks,NYK,Immanuel Quickley,/q/quickim01
+320,New York Knicks,NYK,Nerlens Noel,/n/noelne01
+321,New York Knicks,NYK,Elfrid Payton,/p/paytoel01
+322,New York Knicks,NYK,Obi Toppin,/t/toppiob01
+323,New York Knicks,NYK,Alec Burks,/b/burksal01
+324,New York Knicks,NYK,Taj Gibson,/g/gibsota01
+325,New York Knicks,NYK,Kevin Knox,/k/knoxke01
+326,New York Knicks,NYK,Derrick Rose,/r/rosede01
+327,New York Knicks,NYK,Frank Ntilikina,/n/ntilila01
+328,New York Knicks,NYK,Mitchell Robinson,/r/robinmi01
+329,New York Knicks,NYK,Theo Pinson,/p/pinsoth01
+330,New York Knicks,NYK,Norvel Pelle,/p/pelleno01
+331,New York Knicks,NYK,Luca Vildoza,/v/vildolu01
+332,Oklahoma City Thunder,OKC,Kenrich Williams,/w/willike04
+333,Oklahoma City Thunder,OKC,Théo Maledon,/m/maledth01
+334,Oklahoma City Thunder,OKC,Isaiah Roby,/r/robyis01
+335,Oklahoma City Thunder,OKC,Darius Bazley,/b/bazleda01
+336,Oklahoma City Thunder,OKC,Luguentz Dort,/d/dortlu01
+337,Oklahoma City Thunder,OKC,Aleksej Pokusevski,/p/pokusal01
+338,Oklahoma City Thunder,OKC,Shai Gilgeous-Alexander,/g/gilgesh01
+339,Oklahoma City Thunder,OKC,Mike Muscala,/m/muscami01
+340,Oklahoma City Thunder,OKC,Ty Jerome,/j/jeromty01
+341,Oklahoma City Thunder,OKC,Sviatoslav Mykhailiuk,/m/mykhasv01
+342,Oklahoma City Thunder,OKC,Tony Bradley,/b/bradlto01
+343,Oklahoma City Thunder,OKC,Josh Hall,/h/halljo01
+344,Oklahoma City Thunder,OKC,Jaylen Hoard,/h/hoardja01
+345,Oklahoma City Thunder,OKC,Gabriel Deck,/d/deckga01
+346,Orlando Magic,ORL,Dwayne Bacon,/b/bacondw01
+347,Orlando Magic,ORL,Cole Anthony,/a/anthoco01
+348,Orlando Magic,ORL,Terrence Ross,/r/rosste01
+349,Orlando Magic,ORL,Mo Bamba,/b/bambamo01
+350,Orlando Magic,ORL,Chuma Okeke,/o/okekech01
+351,Orlando Magic,ORL,James Ennis,/e/ennisja01
+352,Orlando Magic,ORL,Chasson Randle,/r/randlch01
+353,Orlando Magic,ORL,Michael Carter-Williams,/c/cartemi01
+354,Orlando Magic,ORL,R.J. Hampton,/h/hamptrj01
+355,Orlando Magic,ORL,Wendell Carter Jr.,/c/cartewe01
+356,Orlando Magic,ORL,Gary Harris,/h/harriga01
+357,Orlando Magic,ORL,Moritz Wagner,/w/wagnemo01
+358,Orlando Magic,ORL,Markelle Fultz,/f/fultzma01
+359,Orlando Magic,ORL,Ignas Brazdeikis,/b/brazdig01
+360,Orlando Magic,ORL,Sindarius Thornwell,/t/thornsi01
+361,Orlando Magic,ORL,Otto Porter,/p/porteot01
+362,Orlando Magic,ORL,Jonathan Isaac,/i/isaacjo01
+363,Philadelphia 76ers,PHI,Danny Green,/g/greenda02
+364,Philadelphia 76ers,PHI,Dwight Howard,/h/howardw01
+365,Philadelphia 76ers,PHI,Matisse Thybulle,/t/thybuma01
+366,Philadelphia 76ers,PHI,Shake Milton,/m/miltosh01
+367,Philadelphia 76ers,PHI,Tobias Harris,/h/harrito02
+368,Philadelphia 76ers,PHI,Tyrese Maxey,/m/maxeyty01
+369,Philadelphia 76ers,PHI,Ben Simmons,/s/simmobe01
+370,Philadelphia 76ers,PHI,Seth Curry,/c/curryse01
+373,Philadelphia 76ers,PHI,Mike Scott,/s/scottmi01
+374,Philadelphia 76ers,PHI,Isaiah Joe,/j/joeis01
+375,Philadelphia 76ers,PHI,Paul Reed,/r/reedpa01
+376,Philadelphia 76ers,PHI,George Hill,/h/hillge01
+377,Philadelphia 76ers,PHI,Rayjon Tucker,/t/tuckera01
+378,Philadelphia 76ers,PHI,Anthony Tolliver,/t/tollian01
+379,Philadelphia 76ers,PHI,Gary Clark,/c/clarkga01
+380,Phoenix Suns,PHO,Mikal Bridges,/b/bridgmi01
+381,Phoenix Suns,PHO,Chris Paul,/p/paulch01
+382,Phoenix Suns,PHO,Deandre Ayton,/a/aytonde01
+383,Phoenix Suns,PHO,Devin Booker,/b/bookede01
+384,Phoenix Suns,PHO,Jae Crowder,/c/crowdja01
+385,Phoenix Suns,PHO,Cameron Johnson,/j/johnsca02
+386,Phoenix Suns,PHO,Cameron Payne,/p/payneca01
+387,Phoenix Suns,PHO,Jevon Carter,/c/carteje01
+388,Phoenix Suns,PHO,Dario Šarić,/s/saricda01
+389,Phoenix Suns,PHO,Frank Kaminsky,/k/kaminfr01
+390,Phoenix Suns,PHO,Langston Galloway,/g/gallola01
+391,Phoenix Suns,PHO,Torrey Craig,/c/craigto01
+392,Phoenix Suns,PHO,E'Twaun Moore,/m/mooreet01
+393,Phoenix Suns,PHO,Jalen Smith,/s/smithja04
+394,Phoenix Suns,PHO,Abdel Nader,/n/naderab01
+395,Phoenix Suns,PHO,Ty-Shon Alexander,/a/alexaty01
+396,Portland Trail Blazers,POR,Enes Kanter,/k/kanteen01
+397,Portland Trail Blazers,POR,Robert Covington,/c/covinro01
+398,Portland Trail Blazers,POR,Carmelo Anthony,/a/anthoca01
+399,Portland Trail Blazers,POR,Damian Lillard,/l/lillada01
+400,Portland Trail Blazers,POR,Anfernee Simons,/s/simonan01
+401,Portland Trail Blazers,POR,Derrick Jones Jr.,/j/jonesde02
+402,Portland Trail Blazers,POR,Nassir Little,/l/littlna01
+403,Portland Trail Blazers,POR,CJ McCollum,/m/mccolcj01
+404,Portland Trail Blazers,POR,Harry Giles,/g/gilesha01
+405,Portland Trail Blazers,POR,Jusuf Nurkić,/n/nurkiju01
+406,Portland Trail Blazers,POR,CJ Elleby,/e/ellebcj01
+407,Portland Trail Blazers,POR,Norman Powell,/p/powelno01
+408,Portland Trail Blazers,POR,Keljin Blevins,/b/blevike01
+409,Portland Trail Blazers,POR,Rondae Hollis-Jefferson,/h/holliro01
+410,Portland Trail Blazers,POR,T.J. Leaf,/l/leaftj01
+411,Portland Trail Blazers,POR,Zach Collins,/c/colliza01
+412,Sacramento Kings,SAC,Buddy Hield,/h/hieldbu01
+413,Sacramento Kings,SAC,Richaun Holmes,/h/holmeri01
+414,Sacramento Kings,SAC,De'Aaron Fox,/f/foxde01
+415,Sacramento Kings,SAC,Harrison Barnes,/b/barneha02
+416,Sacramento Kings,SAC,Tyrese Haliburton,/h/halibty01
+417,Sacramento Kings,SAC,Marvin Bagley III,/b/baglema01
+418,Sacramento Kings,SAC,Hassan Whiteside,/w/whiteha01
+419,Sacramento Kings,SAC,Chimezie Metu,/m/metuch01
+420,Sacramento Kings,SAC,Justin James,/j/jamesju01
+421,Sacramento Kings,SAC,Kyle Guy,/g/guyky01
+422,Sacramento Kings,SAC,Terence Davis,/d/daviste02
+423,Sacramento Kings,SAC,Delon Wright,/w/wrighde01
+424,Sacramento Kings,SAC,Maurice Harkless,/h/harklma01
+425,Sacramento Kings,SAC,Damian Jones,/j/jonesda03
+426,Sacramento Kings,SAC,Jahmi'us Ramsey,/r/ramseja01
+427,Sacramento Kings,SAC,Robert Woodard,/w/woodaro01
+428,San Antonio Spurs,SAS,Keldon Johnson,/j/johnske04
+429,San Antonio Spurs,SAS,Jakob Poeltl,/p/poeltja01
+430,San Antonio Spurs,SAS,Patty Mills,/m/millspa02
+431,San Antonio Spurs,SAS,Dejounte Murray,/m/murrade01
+432,San Antonio Spurs,SAS,Rudy Gay,/g/gayru01
+433,San Antonio Spurs,SAS,Devin Vassell,/v/vassede01
+434,San Antonio Spurs,SAS,DeMar DeRozan,/d/derozde01
+435,San Antonio Spurs,SAS,Lonnie Walker,/w/walkelo01
+436,San Antonio Spurs,SAS,Drew Eubanks,/e/eubandr01
+437,San Antonio Spurs,SAS,Tre Jones,/j/jonestr01
+438,San Antonio Spurs,SAS,Derrick White,/w/whitede01
+439,San Antonio Spurs,SAS,Luka Šamanić,/s/samanlu01
+440,San Antonio Spurs,SAS,Keita Bates-Diop,/b/bateske01
+441,San Antonio Spurs,SAS,Trey Lyles,/l/lylestr01
+442,San Antonio Spurs,SAS,Quinndary Weatherspoon,/w/weathqu01
+443,San Antonio Spurs,SAS,Gorgui Dieng,/d/dienggo01
+444,San Antonio Spurs,SAS,DaQuan Jeffries,/j/jeffrda01
+445,Toronto Raptors,TOR,Stanley Johnson,/j/johnsst04
+446,Toronto Raptors,TOR,Chris Boucher,/b/bouchch01
+447,Toronto Raptors,TOR,Pascal Siakam,/s/siakapa01
+448,Toronto Raptors,TOR,Aron Baynes,/b/baynear01
+449,Toronto Raptors,TOR,Fred VanVleet,/v/vanvlfr01
+450,Toronto Raptors,TOR,DeAndre' Bembry,/b/bembrde01
+451,Toronto Raptors,TOR,Yuta Watanabe,/w/watanyu01
+452,Toronto Raptors,TOR,Malachi Flynn,/f/flynnma01
+453,Toronto Raptors,TOR,Kyle Lowry,/l/lowryky01
+454,Toronto Raptors,TOR,OG Anunoby,/a/anunoog01
+455,Toronto Raptors,TOR,Paul Watson,/w/watsopa01
+456,Toronto Raptors,TOR,Freddie Gillespie,/g/gillefr01
+457,Toronto Raptors,TOR,Khem Birch,/b/birchkh01
+458,Toronto Raptors,TOR,Gary Trent Jr.,/t/trentga02
+459,Toronto Raptors,TOR,Rodney Hood,/h/hoodro01
+460,Toronto Raptors,TOR,Jalen Harris,/h/harrija01
+461,Utah Jazz,UTA,Bojan Bogdanović,/b/bogdabo02
+462,Utah Jazz,UTA,Georges Niang,/n/niangge01
+463,Utah Jazz,UTA,Rudy Gobert,/g/goberru01
+464,Utah Jazz,UTA,Royce O'Neale,/o/onealro01
+465,Utah Jazz,UTA,Jordan Clarkson,/c/clarkjo01
+466,Utah Jazz,UTA,Derrick Favors,/f/favorde01
+467,Utah Jazz,UTA,Joe Ingles,/i/inglejo01
+468,Utah Jazz,UTA,Miye Oni,/o/onimi01
+469,Utah Jazz,UTA,Donovan Mitchell,/m/mitchdo01
+470,Utah Jazz,UTA,Mike Conley,/c/conlemi01
+471,Utah Jazz,UTA,Trent Forrest,/f/forretr01
+472,Utah Jazz,UTA,Juwan Morgan,/m/morgaju01
+473,Utah Jazz,UTA,Jarrell Brantley,/b/brantja01
+474,Utah Jazz,UTA,Matt Thomas,/t/thomama02
+475,Utah Jazz,UTA,Elijah Hughes,/h/hugheel01
+476,Utah Jazz,UTA,Ersan İlyasova,/i/ilyaser01
+477,Utah Jazz,UTA,Udoka Azubuike,/a/azubuud01
+478,Washington Wizards,WAS,Robin Lopez,/l/lopezro01
+479,Washington Wizards,WAS,Russell Westbrook,/w/westbru01
+480,Washington Wizards,WAS,Raul Neto,/n/netora01
+481,Washington Wizards,WAS,Garrison Mathews,/m/mathega01
+482,Washington Wizards,WAS,Bradley Beal,/b/bealbr01
+483,Washington Wizards,WAS,Rui Hachimura,/h/hachiru01
+484,Washington Wizards,WAS,Dāvis Bertāns,/b/bertada01
+485,Washington Wizards,WAS,Alex Len,/l/lenal01
+486,Washington Wizards,WAS,Deni Avdija,/a/avdijde01
+487,Washington Wizards,WAS,Ish Smith,/s/smithis01
+488,Washington Wizards,WAS,Isaac Bonga,/b/bongais01
+489,Washington Wizards,WAS,Anthony Gill,/g/gillan01
+490,Washington Wizards,WAS,Daniel Gafford,/g/gaffoda01
+491,Washington Wizards,WAS,Cassius Winston,/w/winstca01
+492,Washington Wizards,WAS,Chandler Hutchison,/h/hutchch01
+493,Washington Wizards,WAS,Thomas Bryant,/b/bryanth01
+494,Washington Wizards,WAS,Caleb Homesley,/h/homesca01
